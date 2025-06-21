@@ -1,0 +1,10 @@
+### Related: [[Mathematics]] [[Physics]]
+
+- [[artificial intelligence]]
+- [[connectionism]]
+- [[functional analysis]]
+- [[neural networks]]
+- [[RSA system]]
+- [[statistics]]
+- [[simulated anealing]]
+- [[Turing machine]]
